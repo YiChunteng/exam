@@ -1,0 +1,7 @@
+C:\example\exem\exwm\exwm\bin\Debug\exwm.exe.config
+C:\example\exem\exwm\exwm\bin\Debug\exwm.exe
+C:\example\exem\exwm\exwm\bin\Debug\exwm.pdb
+C:\example\exem\exwm\exwm\obj\Debug\exwm.csprojAssemblyReference.cache
+C:\example\exem\exwm\exwm\obj\Debug\exwm.csproj.CoreCompileInputs.cache
+C:\example\exem\exwm\exwm\obj\Debug\exwm.exe
+C:\example\exem\exwm\exwm\obj\Debug\exwm.pdb
